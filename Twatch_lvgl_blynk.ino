@@ -11,7 +11,7 @@ TTGOClass *ttgo;
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "a14df8e43bd945678f3b48ff00bf1581";
+char auth[] = "";                                               // Необходимо указать токен ведущего устройства
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
